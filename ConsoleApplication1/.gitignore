@@ -1,0 +1,5 @@
+﻿# Ignoră fișierele generate de Visual Studio
+.vs/
+*.exe
+*.obj
+*.pdb
